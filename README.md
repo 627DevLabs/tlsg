@@ -1,6 +1,6 @@
 # TLSG – The Last Study Guide
 
-An ocean of learning. Built with Next.js 14, TypeScript, and Tailwind CSS.
+An ocean of learning. Built with Next.js 15, TypeScript, and Tailwind CSS.
 
 ## Features
 
